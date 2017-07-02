@@ -19,10 +19,11 @@ TL;DR: Interview Practice--whiteboard, confidence in talking to people.
 1. I once broke into a VIP area of a club with a female friend and stole a Whole Foods chantilly cake, which we proceeded to eat in its entirety in
 a stall in the mens bathroom. 
 2. Before this class, I built a functional web app with MongoDB, Express, and Node. 
-3. 
+3. The Citra stain of hops triggers deeply religious experiences in my brain, so while I love IPAs, I stay away from them to avoid exhibiting
+profound spiritual behaviors in public.
 
 ## My LinkedIn
-[Here!](https://www.linkedin.com/in/jeffDevelops)
+[Here!](https://www.linkedin.com/in/jeff-develops/)
 
 ## Meetups I've attended:
 1. Denver Script (6/27/2017)
