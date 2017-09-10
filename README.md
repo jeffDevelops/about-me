@@ -37,3 +37,10 @@ background in design, but I know fundamantals and can work efficiently in Affini
 ## Link to my portfolio website: 
 [www.jeffdevelops.com](https://www.jeffdevelops.com)
 
+# Applications and Correspondence
+## HomeAdvisor - Front-End Developer Role
+Applied through proprietary application portal: https://recruiting.ultipro.com/HOM1011ADVSR/JobBoard/2762c83b-41b4-4137-ba12-8718a6af79d8/Candidate/ViewPresence Resume, cover letter, link to portfolio site provided.
+Awaiting reply. 
+
+
+
