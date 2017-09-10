@@ -32,8 +32,8 @@ Nick and I seem kind of similar in that we're both interested in having a part i
 background in design, but I know fundamantals and can work efficiently in Affinity Designer, Illustrator, and Sketch.
 
 ## Link to my resume: 
-[./jeff_Reynolds_Resume.pdf](URL)
+[My resume](./jeff_Reynolds_Resume.pdf)
 
 ## Link to my portfolio website: 
-[www.jeffdevelops.com](www.jeffdevelops.com)
+[www.jeffdevelops.com](https://www.jeffdevelops.com)
 
