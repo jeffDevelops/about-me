@@ -41,14 +41,34 @@ background in design, but I know fundamantals and can work efficiently in Affini
 ## HomeAdvisor - Front-End Developer Role
 Applied through proprietary application portal: https://recruiting.ultipro.com/HOM1011ADVSR/JobBoard/2762c83b-41b4-4137-ba12-8718a6af79d8/Candidate/ViewPresence Resume, custom cover letter, link to portfolio site provided.
 Awaiting reply.
-
-Matches independent contractors with homeowners.
+Company: Matches independent contractors with homeowners.
 
 ## Brandfolder - Front End Developer Role
 Applied through company form. Resume, custom cover letter, link to portfolio, GitHub, Linked-In provided. Awaiting reply.
-
 Digital asset managament. React and jQuery.
 
+## IHS Markit, Boulder, CO - Front End Web Developer Position
+Company: Information and insight in critical areas that shape the business landscape
+Contact: Amanda Nelson, Corporate Recruiter, Associate, Talent
+Correspondence:
+Sent resume and cover letter by email. Awaiting reply
 
+## SoundsTrue
+Company: Disseminate spiritual wisdom, multimedia publishing company
+Founded: Tami Simon
+Correspondence: One-click apply, Linked-In; awaiting reply
 
+## Xactly Corp, Junior UI Engineer
+React, Node.js
+Company: Incentive compensation to drive business and inspire employees to align their behaviors with company goals
+Correspondence: awaiting reply
+
+## Vertafore, UI Designer
+Company: Tailored insurance software
+Contact: Andy Dey (CTO) ...?
+Correspondence: Cover letter, resume, portfolio, github, awaiting reply
+
+## ViaSat / Exede Satellite, Front-End Developer
+Company: up-and-coming ISP providing satellite Internet and phone services
+Correspondence: propietary application portal, cover letter, Github, portfolio, resume, awaiting reply
 
