@@ -83,4 +83,7 @@ Correspondence: 5 HOUR TAKE-HOME CODING EXERCISE, JavaScript/jQuery, HTML, CSS (
 -Ben, senior developer, reviewed my code TWICE (very nice of him), gave me 5/5 on all exercises after revising them the first time
  
  -Cassidi Peterson, founder, awaiting "getting in touch" the week of Oct. 2nd
+ 
+## Cascade Recruiting (Recruiting Company)
+Sent Resume and a blurb on what I'm looking for in my next job. Forgot to send website and github, so if more correspondence is made, be sure to send that over!
 
