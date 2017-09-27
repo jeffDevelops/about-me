@@ -80,5 +80,6 @@ Correspondence: awaiting reply, cover letter, resume, github, portfolio site pro
 Company: Web, Print, SEO, Marketing, and Social. Complete solutions to ensure clients' online success
 Correspondence: 5 HOUR TAKE-HOME CODING EXERCISE, JavaScript/jQuery, HTML, CSS (grid, table, flex), Bootstrap mockup
  -Ben, senior developer, reviewed my code TWICE (very nice of him), gave me 5/5 on all exercises after revising them the first time
+ 
  -Cassidi Peterson, founder, awaiting "getting in touch" the week of Oct. 2nd
 
