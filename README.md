@@ -72,3 +72,13 @@ Correspondence: Cover letter, resume, portfolio, github, awaiting reply
 Company: up-and-coming ISP providing satellite Internet and phone services
 Correspondence: propietary application portal, cover letter, Github, portfolio, resume, awaiting reply
 
+## Prestige Staffing - Junior Software Engineer Role
+Company: staffing agency for IT and health professionals
+Correspondence: awaiting reply, cover letter, resume, github, portfolio site provided
+
+## 10 Pound Gorilla - Front End Developer Position (GOLDEN, CO)
+Company: Web, Print, SEO, Marketing, and Social. Complete solutions to ensure clients' online success
+Correspondence: 5 HOUR TAKE-HOME CODING EXERCISE, JavaScript/jQuery, HTML, CSS (grid, table, flex), Bootstrap mockup
+ -Ben, senior developer, reviewed my code TWICE (very nice of him), gave me 5/5 on all exercises after revising them the first time
+ -Cassidi Peterson, founder, awaiting "getting in touch" the week of Oct. 2nd
+
