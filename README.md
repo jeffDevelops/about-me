@@ -66,7 +66,7 @@ Correspondence: awaiting reply
 ## Vertafore, UI Designer
 Company: Tailored insurance software
 Contact: Andy Dey (CTO) ...?
-Correspondence: Cover letter, resume, portfolio, github, awaiting reply
+Correspondence: Cover letter, resume, portfolio, github, hired a UI engineer already (the recruiter at the DSW career fair wasn't very nice...)
 
 ## ViaSat / Exede Satellite, Front-End Developer
 Company: up-and-coming ISP providing satellite Internet and phone services
@@ -87,3 +87,38 @@ Correspondence: 5 HOUR TAKE-HOME CODING EXERCISE, JavaScript/jQuery, HTML, CSS (
 ## Cascade Recruiting (Recruiting Company)
 Sent Resume and a blurb on what I'm looking for in my next job. Forgot to send website and github, so if more correspondence is made, be sure to send that over!
 
+## SendGrid - (Denver Startup Week Career Fair, Available positions inquiry)
+Contacts: Margho Dunnahoo-Kirsch, Steve Kinney (The Junior to Senior DSW talk speaker)
+Sent physical resume, pdf resume, linked-in, portfolio, github, latest project
+Correspondence: in-person at career fair, email follow-up, awaiting reply
+
+## Switchfly - (Denver Startup Week Career Fair, Not hiring junior devs, but applied for future consideration)
+Contact: Adam Valdez
+Sent physical resume, pdf resume, linked-in, portfolio, github, latest project
+Correspondence: in-person at career fair, email follow-up, awaiting reply
+
+## Slalom - (Denver Startup Week Career Fair, Available positions inquiry)
+Contact: Tom Burggraf, Consultant
+Sent physical resume, pdf resume, linked-in, portfolio, github, latest project
+Correspondence: in-person at career fair, email follow-up, awaiting reply
+
+## Zenman - Content Strategy / UI/UX / Product Development / Branding / Ecommerce Agency - Front-End Dev Role
+Contacts: Alexia Hadjinicolaou, Caitlyn Fagan (introduced by Brooke Smith)
+Correspondence: Completed coding challenge, awaiting review from dev team, "should have a decision early next week"
+
+## Nordstrom Technology - (DSW Career Fair, Available positions inquiry)
+Contact: Darrell J. Hines
+Sent physical resume, pdf resume, linked-in, portfolio, github, latest project
+Correspondence: in-person at career fair, email follow-up, awaiting reply
+
+## Fixters.com - House fix and flip training, project management software package
+Contact: Rob Terranova
+Correspondence: in-person at career fair, email follow-up, awaiting reply
+
+## Spectrum (Charter Communications) - (DSW Career Fair, available positions inquiry)
+Contacts: Aakash Sahai, Michael Sobota
+Correspondence: in-person at career fair, email follow-up, awaiting reply
+
+## Printfection - Swag Marketing Made Easy (No open positions at this time)
+Contact: Kevin Materi
+Correspondence: in-person at career fair, email follow-up, awaiting reply
