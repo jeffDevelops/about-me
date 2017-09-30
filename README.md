@@ -11,11 +11,9 @@ I studied Music at Fort Lewis College in beautiful Durango, CO, and while it was
 
 ## Two Truths and a Lie
 
-1. I once broke into a VIP area of a club with a female friend and stole a Whole Foods chantilly cake, which we proceeded to eat in its entirety in
-a stall in the mens bathroom. 
+1. I once broke into a VIP area of a club with a female friend and stole a Whole Foods chantilly cake, which we proceeded to eat in its entirety in a stall in the mens bathroom. 
 2. Before this class, I built a functional web app with MongoDB, Express, and Node. 
-3. The Citra stain of hops triggers deeply religious experiences in my brain, so while I love IPAs, I stay away from them to avoid exhibiting
-profound spiritual behaviors in public.
+3. The Citra strain of hops triggers deeply religious experiences in my brain, so while I love IPAs, I stay away from them to avoid exhibiting profound spiritual behaviors in public.
 
 ## My LinkedIn
 [Here!](https://www.linkedin.com/in/jeff-develops/)
