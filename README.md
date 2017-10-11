@@ -21,6 +21,10 @@ I studied Music at Fort Lewis College in beautiful Durango, CO, and while it was
 ## Meetups I've attended:
 1. Denver Script (6/27/2017), CSS Grid and Lambda
 2. Denver Script (7/25/2017), Glitch and Debugging Pro-tips
+3. Denver Startup Week, Front-End Doesn't Suck Anymore
+4. Denver Startup Week, Front-End For Backend Developers
+5. Denver Startup Week, Career Fair
+6. Bootcampers Collective (10/16/2017), Dave and Buster's Info Meeting
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
 I'm not entirely sure yet. I like the idea of working as the sole in-house developer for a company, so that I can have a hand in the design and implementation of software. But, the stability of an agency sounds like what my finances need at this point in my life. 
@@ -144,3 +148,7 @@ Correspondence: in-person at career fair, email follow-up, awaiting reply
 Contact: Kevin Materi
 
 Correspondence: in-person at career fair, email follow-up, awaiting reply
+
+## TrackVia - Workflow Software Company
+Proprietary application portal, resume, portfolio site
+Awaiting reply
